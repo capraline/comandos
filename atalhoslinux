@@ -8,3 +8,7 @@ control + h - deleta uma letra
 control + y volta para uma informação anterior
 control + w deleta palavra por palavra
 control + l deleta a tela toda
+nano - cria uma pasta de notas 
+cd - diretório
+kill para qualquer sistema ou aplitivo
+pkill top - pkill + nome do programa que você quer que corte
