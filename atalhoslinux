@@ -12,3 +12,13 @@ nano - cria uma pasta de notas
 cd - diretório
 kill para qualquer sistema ou aplitivo
 pkill top - pkill + nome do programa que você quer que corte
+diretório = pastas
+cd = diretório
+ls = listar diretório 
+/ = raíz {root}
+/bin = binários - arquivos executáveis
+/etc = arquivos para o sistema
+/sbin = sistemas essenciais binários
+/usr = leitor de aplicativos de usuários suporte de informação e binários
+/var = informações de arquivos variáveis
+usar letras minúsculas paraq arquivos e maiúsculas para diretórios
