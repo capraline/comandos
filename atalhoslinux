@@ -14,7 +14,14 @@ kill para qualquer sistema ou aplitivo
 pkill top - pkill + nome do programa que você quer que corte
 diretório = pastas
 cd = diretório
-ls = listar diretório 
+cd /(nome do diretório/ ex: cd /etc/
+cd /tmp/ = diretório temporário
+cd .. = volta um arquivo atrás
+ls = listar diretório
+ls -l = liatagem longa
+ls -R incluir  conteúdos de todos os subdiretórios se tiver
+ls -a = arquivos ocultos
+ls - la = lista todos detalhes dos arquivos ocultos
 / = raíz {root}
 /bin = binários - arquivos executáveis
 /etc = arquivos para o sistema
@@ -22,3 +29,5 @@ ls = listar diretório
 /usr = leitor de aplicativos de usuários suporte de informação e binários
 /var = informações de arquivos variáveis
 usar letras minúsculas paraq arquivos e maiúsculas para diretórios
+pwd = diz onde eu estou dentro do linux
+touch = cria arquivos vazios
