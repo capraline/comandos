@@ -16,6 +16,8 @@ diretório = pastas
 cd = diretório
 cd /(nome do diretório/ ex: cd /etc/
 cd /tmp/ = diretório temporário
+cd - diretório anterior
+cd ~ seu diretório (home)
 cd .. = volta um arquivo atrás
 ls = listar diretório
 ls -l = liatagem longa
@@ -38,3 +40,9 @@ cd to - mudar de diretório
 cat - printar o arquicvo context
 top atop htop checar o processo do linux
 Tab - auto completar a frase
+mkdir - fazer um diretório 
+cp =copy 
+p- = arquivo pai para criar subdiretório 
+mv = move um arquivo de um lugar para o outro
+-v mostra o caminho  de algo que foi feito
+rm -rf =remove arquivo ou diretório
