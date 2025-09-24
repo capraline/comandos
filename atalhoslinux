@@ -5,7 +5,7 @@ control + f - passa de letra em letra para frente
 control + n - próximo comando
 control + b - apaga a palavra anterior
 control + h - deleta uma letra
-control + y volta para uma informação anterior
+control + y volta para uma informação anterior se eu apagar algo sem querer ele retorna
 control + w deleta palavra por palavra
 control + l deleta a tela toda
 nano - cria uma pasta de notas 
@@ -31,3 +31,10 @@ ls - la = lista todos detalhes dos arquivos ocultos
 usar letras minúsculas paraq arquivos e maiúsculas para diretórios
 pwd = diz onde eu estou dentro do linux
 touch = cria arquivos vazios
+q para sair do manual de página 
+j - subir no manual de página
+k descer no manual de página
+cd to - mudar de diretório
+cat - printar o arquicvo context
+top atop htop checar o processo do linux
+Escola Virtual Govq 
